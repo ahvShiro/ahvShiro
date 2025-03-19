@@ -7,6 +7,14 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotaç
 - 💻 Atualmente realizando um estágio de informática na Prefeitura de Paranavai - Fundo Municipal de Saúde
 - 🎓 Estudando Engenharia de Software no Instituto Federal do Paraná (2/4)
 
+## Habilidades
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
 ## Entre em contato
 
 - 📧 Email: [arthurshiro123@gmail.com](mailto:arthurshiro123@gmail.com)
