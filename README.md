@@ -1,4 +1,5 @@
-## Olá! Meu nome é Arthur 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello!+I'm+Arthur+Shiroshima;Ol%C3%A1!+Meu+nome+%C3%A9+Arthur+Shiroshima)](https://git.io/typing-svg)
+
 Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotações e projetos pessoais em andamento
 
 ## Sobre mim
