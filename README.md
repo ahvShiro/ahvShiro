@@ -1,22 +1,32 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello!+I'm+Arthur+Shiroshima;Ol%C3%A1!+Meu+nome+%C3%A9+Arthur+Shiroshima)](https://git.io/typing-svg) 
+<!-- Te peguei stalker! -->
+<!-- Zueira a parte, se você gostou do meu perfil, me segue ai e deixa uma estrelinha fazendo favor -->
+
+
+<!--TODO colocar uma imagem aq-->
+
+
+
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=30&duration=3000&pause=500&color=8900FF&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Arthur!;Ol%C3%A1%2C+me+chamo+Arthur!" alt="Typing SVG" />
+</a>
 
 Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotações e projetos pessoais em andamento
 
-## Sobre mim
+**Sobre mim**
 
 - 💻 Atualmente realizando um estágio de informática na Prefeitura de Paranavai - Fundo Municipal de Saúde
 - 🎓 Estudando Engenharia de Software no Instituto Federal do Paraná (2/4)
 
-## Habilidades
-<p align="center">
+**Habilidades**
+<p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,c,vim" />
   </a>
 </p>
 
 
-## Entre em contato
-
+**Entre em contato
+**
 - 📧 Email: [arthurshiro123@gmail.com](mailto:arthurshiro123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-shiroshima)
 
