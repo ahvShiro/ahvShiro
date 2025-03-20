@@ -1,22 +1,22 @@
-
-
 ![](github-header-image.png)
 
-<!-- Onde eu criei esse texto -->
+<!-- Onde eu criei esse texto: -->
 <!--https://readme-typing-svg.demolab.com/demo/?weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&lines=Hello%2C%20I%27m%20Arthur!%3BOl%C3%A1%2C%20me%20chamo%20Arthur!-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Arthur!;Ol%C3%A1%2C+me+chamo+Arthur!" alt="Typing SVG" /></a> 
- 
-Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotações e alguns projetos pessoais
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Arthur!;Ol%C3%A1%2C+me+chamo+Arthur!" alt="Typing SVG" />
+</a> 
 
-Welcome to my GitHub profile! Here you'll find my 
+Welcome to my GitHub profile! Here you'll find my college notes and some personal projects.
 
-### Sobre mim
+### About me
 
-- 💻 Atualmente realizando um estágio de informática no Fundo Municipal de Saúde da Prefeitura de Paranavaí
-- 🎓 Estudando Engenharia de Software no Instituto Federal do Paraná (2/4)
-- 🎸 Guitarrista e músico nas horas vagas
-- ☕ Apreciador de um bom café
+- 💻 Currently on a IT internship at the Health Department of the Municipal City Hall of Paranavaí (8/12 months)
+- 🎓 Bachelor's student in Software Engineering @ IFPR (2/4 years)
+- 🌎 Brazilian who speaks English (B1) and a little of Japanese
+- 🎸 Guitarist and musician in my spare time
+- ☕ A true coffee connoisseur
+- 👨‍💻 Avid hackathon enthusiast
 
 ### Languages
 
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! Here you'll find my
 
 -->
 
-### Entre em contato!
+### Let's get in touch!
 
 <a href="mailto:arthurshiro123@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank">
@@ -59,7 +59,4 @@ Welcome to my GitHub profile! Here you'll find my
 
 <a href="https://img.shields.io/badge/shiroshima.dev%20(TO%20COME)?style=for-the-badge/"> </a>
 
-
 <!-- [![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ahvShiro&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
