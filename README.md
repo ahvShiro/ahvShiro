@@ -9,6 +9,8 @@
  
 Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotações e alguns projetos pessoais
 
+Welcome to my GitHub profile! Here you'll find my 
+
 ### Sobre mim
 
 - 💻 Atualmente realizando um estágio de informática no Fundo Municipal de Saúde da Prefeitura de Paranavaí
@@ -16,18 +18,34 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotaç
 - 🎸 Guitarrista e músico nas horas vagas
 - ☕ Apreciador de um bom café
 
-### Linguagens
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,php,java,c,js)](https://skillicons.dev)
 
-### Habilidades
+### Tools
 
-[![Habilities](https://skillicons.dev/icons?i=git,github,docker,linux,postgres,sqlite,css,sass,html,)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,obsidian)](https://skillicons.dev)
 
-### Distro hopping
+### DB
 
-[![Distros](https://skillicons.dev/icons?i=fedora,ubuntu,debian,nix,)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres,sqlite,mongodb)](https://skillicons.dev)
 
+### Front-end
+
+[![Front-end](https://skillicons.dev/icons?i=html,css,sass,react)](https://skillicons.dev)
+
+<!--
+### Distro Hopping:
+
+- OpenSUSE Leap
+- OpenSUSE TW
+- Debian
+- Fedora
+- Ubuntu
+- Pop!_OS
+- ???
+
+-->
 
 ### Entre em contato!
 
@@ -38,6 +56,8 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotaç
 <a href="https://www.linkedin.com/in/arthur-shiroshima/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
+
+<a href="https://img.shields.io/badge/shiroshima.dev%20(TO%20COME)?style=for-the-badge/"> </a>
 
 
 <!-- [![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ahvShiro&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
