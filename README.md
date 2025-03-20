@@ -15,11 +15,13 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotaç
 
 ### Habilidades
 
-[![Languages](https://skillicons.dev/icons?i=python,php,java,c,js,reactnative&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,php,java,c,js,react)](https://skillicons.dev)
 
-
-## Entre em contato
+### Entre em contato
 - 📧 Email: [arthurshiro123@gmail.com](mailto:arthurshiro123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthur-shiroshima)
+
+
+<!-- [![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ahvShiro&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
