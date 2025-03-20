@@ -11,8 +11,10 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotaç
 
 ### Sobre mim
 
-- 💻 Atualmente realizando um estágio de informática na Prefeitura de Paranavai - Fundo Municipal de Saúde
+- 💻 Atualmente realizando um estágio de informática no Fundo Municipal de Saúde da Prefeitura de Paranavaí
 - 🎓 Estudando Engenharia de Software no Instituto Federal do Paraná (2/4)
+- 🎸 Guitarrista e músico nas horas vagas
+- ☕ Apreciador de um bom café
 
 ### Linguagens
 
@@ -20,17 +22,23 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui, você vai encontrar minhas anotaç
 
 ### Habilidades
 
-[![Habilities](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+[![Habilities](https://skillicons.dev/icons?i=git,github,docker,linux,postgres,sqlite,css,sass,html,)](https://skillicons.dev)
+
+### Distro hopping
+
+[![Distros](https://skillicons.dev/icons?i=fedora,ubuntu,debian,nix,)](https://skillicons.dev)
 
 
-### Entre em contato
-mailto:arthurshiro123@gmail.com
+### Entre em contato!
 
-https://www.linkedin.com/in/arthur-shiroshima
-
-<a href="https://www.linkedin.com/in/arthur-shiroshima">
-https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+<a href="mailto:arthurshiro123@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank">
 </a>
+
+<a href="https://www.linkedin.com/in/arthur-shiroshima/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+
 
 <!-- [![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ahvShiro&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
