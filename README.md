@@ -1,6 +1,6 @@
 
 
-<!--TODO colocar uma imagem aq-->
+![](github-header-image.png)
 
 <!--https://readme-typing-svg.demolab.com/demo/?weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&lines=Hello%2C%20I%27m%20Arthur!%3BOl%C3%A1%2C%20me%20chamo%20Arthur!-->
 
