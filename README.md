@@ -48,11 +48,21 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 - ☕ A true coffee connoisseur
 - 👨‍💻 Avid hackathon enthusiast
 
+### Languages
 
+[![Languages](https://skillicons.dev/icons?i=python,php,java,c,js)](https://skillicons.dev)
 
+### Tools
 
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,obsidian)](https://skillicons.dev)
 
+### DB
 
+[![Tools](https://skillicons.dev/icons?i=postgres,sqlite,mongodb)](https://skillicons.dev)
+
+### Front-end
+
+[![Front-end](https://skillicons.dev/icons?i=html,css,sass,react)](https://skillicons.dev)
 
 <!--
 ### Distro Hopping:
