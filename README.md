@@ -42,7 +42,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 - 💻 Currently on an IT internship at the Health Department of the Municipal City Hall of Paranavaí (8/12 months)
 - 🎓 Bachelor's student in Software Engineering @ IFPR (2/4 years)
-- 🌎 Brazilian who speaks English (B1) and a little of Japanese
+- 🇧🇷 Brazilian who speaks English (B1) and a little of Japanese
 - 🎸 Guitarist and musician in my spare time
 - ☕ A true coffee connoisseur
 - 👨‍💻 Avid hackathon enthusiast
