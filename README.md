@@ -49,37 +49,9 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 - 👨‍💻 Avid hackathon enthusiast
 
 
-<div align="left">
-  <h3>Languages</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,java,c,js" />
-  </a>
-</div>
 
-<div align="right">
-  <h3>Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,obsidian" />
-  </a>
-</div>
 
-<br clear="both"/>
 
-<div align="left">
-  <h3>Databases</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" />
-  </a>
-</div>
-
-<div align="right">
-  <h3>Front-end</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react" />
-  </a>
-</div>
-
-<br clear="both"/>
 
 
 <!--
