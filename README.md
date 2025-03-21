@@ -1,7 +1,37 @@
-![](github-header-image.png)
+<!--
+    Olá pra você que está lendo isso! 
+    
+    Fico feliz que o meu perfil ficou tão legal que você quis 
+    abrir o código fonte só pra ver como eu fiz.
+    
+    Brincadeiras a parte, foi muito divertido fazer esse perfil, e
+    eu espero que você tenha a mesma diversão fazendo ou editando o
+    seu também.
+    
+    Por isso, vou deixar aqui alguns recursos que me ajudaram na
+    elaboração desse README.md, para você conseguir ter um perfil
+    tão bom quanto o meu B)
 
-<!-- Onde eu criei esse texto: -->
-<!--https://readme-typing-svg.demolab.com/demo/?weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&lines=Hello%2C%20I%27m%20Arthur!%3BOl%C3%A1%2C%20me%20chamo%20Arthur!-->
+    # Inspiração:
+        - https://zzetao.github.io/awesome-github-profile/
+        - https://github.com/abhisheknaiidu/awesome-github-profile-readme
+        
+    # Capa de Cabeçalho:
+        - TODO encontrar a fonte
+        
+    # Animação do texto digitando:
+        - https://readme-typing-svg.demolab.com/demo
+        
+    # Icones de Tecnologias:
+        - https://skillicons.dev/
+        - https://github.com/tandpfun/skill-icons
+        
+    # "Botões" de Contato
+        - https://shields.io/docs/
+        
+-->
+
+![](github-header-image.png)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Arthur!;Ol%C3%A1%2C+me+chamo+Arthur!" alt="Typing SVG" />
@@ -18,21 +48,39 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 - ☕ A true coffee connoisseur
 - 👨‍💻 Avid hackathon enthusiast
 
-### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,php,java,c,js)](https://skillicons.dev)
+<div align="left">
+  <h3>Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,java,c,js" />
+  </a>
+</div>
 
-### Tools
+<div align="right">
+  <h3>Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,obsidian" />
+  </a>
+</div>
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,obsidian)](https://skillicons.dev)
+<br clear="both"/>
 
-### DB
+<div align="left">
+  <h3>Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" />
+  </a>
+</div>
 
-[![Tools](https://skillicons.dev/icons?i=postgres,sqlite,mongodb)](https://skillicons.dev)
+<div align="right">
+  <h3>Front-end</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react" />
+  </a>
+</div>
 
-### Front-end
+<br clear="both"/>
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,sass,react)](https://skillicons.dev)
 
 <!--
 ### Distro Hopping:
@@ -44,8 +92,8 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 - Ubuntu
 - Pop!_OS
 - ???
-
 -->
+
 
 ### Let's get in touch!
 
@@ -56,7 +104,3 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 <a href="https://www.linkedin.com/in/arthur-shiroshima/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-
-<a href="https://img.shields.io/badge/shiroshima.dev%20(TO%20COME)?style=for-the-badge/"> </a>
-
-<!-- [![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=ahvShiro&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
