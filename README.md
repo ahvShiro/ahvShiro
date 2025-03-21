@@ -30,6 +30,8 @@
         - https://shields.io/docs/
         
 -->
+![The Creation of Adam](assets/adam-cropped.png)
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Arthur!;Ol%C3%A1%2C+me+chamo+Arthur!" alt="Typing SVG" />
 </a> 
