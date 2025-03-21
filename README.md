@@ -17,7 +17,7 @@
         - https://github.com/abhisheknaiidu/awesome-github-profile-readme
         
     # Capa de Cabeçalho:
-        - TODO encontrar a fonte
+        - https://leviarista.github.io/github-profile-header-generator/
         
     # Animação do texto digitando:
         - https://readme-typing-svg.demolab.com/demo
