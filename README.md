@@ -4,13 +4,15 @@
     Fico feliz que o meu perfil ficou tão legal que você quis 
     abrir o código fonte só pra ver como eu fiz.
     
-    Brincadeiras a parte, foi muito divertido fazer esse perfil, e
-    eu espero que você tenha a mesma diversão fazendo ou editando o
-    seu também.
+    Foi muito divertido fazer esse perfil, e eu espero que você 
+    tenha a mesma diversão fazendo ou editando o seu também.
     
     Por isso, vou deixar aqui alguns recursos que me ajudaram na
     elaboração desse README.md, para você conseguir ter um perfil
     tão bom quanto o meu B)
+
+    # Ferramentas para criação completa:
+        - https://gprm.itsvg.in/
 
     # Inspiração:
         - https://zzetao.github.io/awesome-github-profile/
@@ -51,22 +53,6 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 - ☕ A true coffee connoisseur
 - 👨‍💻 Avid hackathon enthusiast
 
-### Languages
-
-[![Languages](https://skillicons.dev/icons?i=python,php,java,c,js)](https://skillicons.dev)
-
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,obsidian)](https://skillicons.dev)
-
-### DB
-
-[![Tools](https://skillicons.dev/icons?i=postgres,sqlite,mongodb)](https://skillicons.dev)
-
-### Front-end
-
-[![Front-end](https://skillicons.dev/icons?i=html,css,sass,react)](https://skillicons.dev)
-
 <!--
 ### Distro Hopping:
 
@@ -79,13 +65,25 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 - ???
 -->
 
+### Tech Stack 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 
 
 ### Let's get in touch!
 
-<a href="mailto:arthurshiro123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-shiroshima) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurshiro123@gmail.com) 
 
-<a href="https://www.linkedin.com/in/arthur-shiroshima/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+<!--
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahvShiro) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahvShiro) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahvShiro) 
+-->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Essa ferramenta é uma mão na roda, não usei ela em todo o README, mas ela me ajudou bastante -->
