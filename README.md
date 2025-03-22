@@ -17,7 +17,10 @@
         - https://github.com/abhisheknaiidu/awesome-github-profile-readme
         
     # Capa de Cabeçalho:
-        - https://leviarista.github.io/github-profile-header-generator/
+        - Capa antiga:
+        - https://leviarista.github.io/github-profile-header-generator/ 
+        - Capa nova:
+        - https://photoshopcafe.com/download-high-resolution-webb-space-telescope-images-how-to-enhance-space-photos-in-photoshop/
         
     # Animação do texto digitando:
         - https://readme-typing-svg.demolab.com/demo
