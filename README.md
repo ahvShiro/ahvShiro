@@ -30,11 +30,8 @@
         - https://shields.io/docs/
         
 -->
-<<<<<<< HEAD
+
 ![James Webb image](assets/james-webb.png)
-=======
-![The Wave of Kanagawa in Black and White](assets/wave-of-kanagawa-cropped.jpg)
->>>>>>> 6aa4095af617388062148618a91891a32eb522dd
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8900FF&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Arthur!;Ol%C3%A1%2C+me+chamo+Arthur!" alt="Typing SVG" />
