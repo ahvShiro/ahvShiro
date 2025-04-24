@@ -55,7 +55,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 <!-- ![MIPS Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
 
-![Python](https://img.shields.io/badge/python-EEE?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-333?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=E22529)
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -85,14 +85,8 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 ### `GitHub Stats`
 <div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats"">
-        <img alt="Shows Anuraghazra's GitHub Stats." src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=graywhite&hide_border=true" height="150" alt="streak stats"">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages"">
-        <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages"">
-    </picture>
+    <img alt="Stats ahvShiro" src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats"">
+    <img alt="Top langs ahvShiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages"">
 </div>
 
 
