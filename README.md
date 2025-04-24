@@ -60,7 +60,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css&logoColor=663399)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![LaTeX](https://img.shields.io/badge/latex-000?style=for-the-badge&logo=latex&logoColor=008080)
 ![Markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
@@ -87,6 +87,17 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
   <img src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages" />
 </div>
+
+<picture>
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats""
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats""
+    media="(prefers-color-scheme: light)"
+  />
+</picture>
 
 ### `Let's get in touch!`
 
