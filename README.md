@@ -53,12 +53,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 ### `Tech Stack`
 
-<!-- ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/python-EEEEEE?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54">
-</picture>
+<!-- ![MIPS Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=E22529)
