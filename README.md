@@ -84,20 +84,9 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 ### `GitHub Stats`
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&bg_color=00000000&theme=midnight-purple&hide_border=true" height="150" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages" />
 </div>
-
-<picture>
-  <source
-    srcset=""
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats""
-    media="(prefers-color-scheme: light)"
-  />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats"">
