@@ -55,8 +55,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 <!-- ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
 
-![Python](https://img.shields.io/badge/python-auto?style=for-the-badge&logo=python&logoColor=ffdd54&color=auto)
-![Python](https://img.shields.io/badge/python-2D333B?style=for-the-badge&logo=python&logoColor=ffdd54&color=2D333B)
+![Python](https://img.shields.io/badge/python-auto?style=for-the-badge&logo=python&logoColor=ffdd54&color=auto&labelColor=auto)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=E22529)
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=777BB4)
