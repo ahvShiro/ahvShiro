@@ -90,7 +90,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 <picture>
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats""
+    srcset=""
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -98,6 +98,12 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
     media="(prefers-color-scheme: light)"
   />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats"">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=buefy&hide_border=true" height="150" alt="streak stats"">
+</picture>
+
 
 ### `Let's get in touch!`
 
