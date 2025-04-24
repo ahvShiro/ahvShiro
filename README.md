@@ -54,6 +54,9 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 ### `Tech Stack`
 
 <!-- ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
+
+![Python](https://img.shields.io/badge/python-auto?style=for-the-badge&logo=python&logoColor=ffdd54&color=auto)
+![Python](https://img.shields.io/badge/python-2D333B?style=for-the-badge&logo=python&logoColor=ffdd54&color=2D333B)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=E22529)
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -83,15 +86,17 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 ![Steam](https://img.shields.io/badge/steam-000?style=for-the-badge&logo=steam&logoColor=white)
 
 ### `GitHub Stats`
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&bg_color=00000000&theme=midnight-purple&hide_border=true" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages" />
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats"">
+        <img alt="Shows Anuraghazra's GitHub Stats." src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=graywhite&hide_border=true" height="150" alt="streak stats"">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages"">
+        <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages"">
+    </picture>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=midnight-purple&hide_border=true" height="150" alt="streak stats"">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://nirzak-streak-stats.vercel.app/?user=ahvshiro&theme=buefy&hide_border=true" height="150" alt="streak stats"">
-</picture>
 
 
 ### `Let's get in touch!`
