@@ -44,13 +44,12 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 ### `About me`
 
-- 💻 Currently on an IT internship at the Health Department of the Municipal City Hall of Paranavaí (9/12 months)
-- 🎓 Bachelor's student in Software Engineering @ IFPR (2/4 years)
-- 🇧🇷 Brazilian who speaks English (B1) and a little of Japanese
-- 🎸 Guitarist and musician in my spare time
+- 💻 Currently on Compass UOL's Scholarship program
+- 🎓 Undergrad student in Software Engineering @ IFPR (4th/8 semesters)
+- 🇧🇷 Brazilian who speaks English (B1) and a bit of Japanese
+- 🎸 Bassist/guitarist and musician in my spare time
 - ☕ A true coffee connoisseur
-- 👨‍💻 Avid hackathon enthusiast
-
+  
 ### `Tech Stack`
 
 <!-- ![MIPS Assembly](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) -->
