@@ -58,7 +58,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=E22529)
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css&logoColor=663399)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -70,7 +70,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=3399CC)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=83CD29)
+<!--  ![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=83CD29) -->
 ![Apache](https://img.shields.io/badge/apache-000?style=for-the-badge&logo=apache&logoColor=D22128)
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F05033)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -88,15 +88,9 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
     <img alt="Top langs ahvShiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvshiro&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages"">
 </div>
 
-
-
 ### `Let's get in touch!`
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-shiroshima) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurshiro123@gmail.com) 
-
-<!--
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahvShiro) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahvShiro) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahvShiro) 
--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Essa ferramenta é uma mão na roda, não usei ela em todo o README, mas ela me ajudou bastante -->
