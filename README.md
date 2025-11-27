@@ -44,7 +44,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 ### `About me`
 
-- 💻 Currently on Compass UOL's Backend Scholarship program
+- 💻 Currently on iCode Sistemas, working on the i18n of a project
 - 🎓 Undergrad student in Software Engineering @ IFPR (4th/8 semesters)
 - 🇧🇷 Brazilian who speaks English (B1) and a bit of Japanese
 - 🎸 Bassist/guitarist and musician in my spare time
