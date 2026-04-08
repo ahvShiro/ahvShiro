@@ -44,7 +44,7 @@ Welcome to my GitHub profile! Here you'll find my college notes and some persona
 
 ### `About me`
 
-- 💻 Interning as a developer @ iCode Group
+- 💻 IT Support @ Colégio Paroquial
 - 🎓 Undergrad student in Software Engineering @ IFPR (5th/8 semesters)
 - 🇧🇷 Brazilian who speaks English (B1) and a bit of Japanese
 - 🎸 Bassist/guitarist and musician in my spare time
